@@ -3,4 +3,4 @@
 ### Note:
   - Your computer must have python pre-installed
   - Your computer need install CV2 to run this code
-  - Put your images into input folder. 
+  - Put your images converted into input folder. 
