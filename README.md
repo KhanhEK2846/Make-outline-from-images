@@ -2,5 +2,5 @@
 
 ### Note:
   - Your computer must have python pre-installed
-  - Your computer need install Pillow to run this code
+  - Your computer need install CV2 to run this code
   - Put your images into input folder. 
